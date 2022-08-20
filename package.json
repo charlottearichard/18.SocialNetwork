@@ -1,0 +1,24 @@
+{
+  "name": "18.socialnetwork",
+  "version": "1.0.0",
+  "description": "18 Challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "Jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlottearichard/18.SocialNetwork.git"
+  },
+  "author": "Charlotte Ri'Chard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlottearichard/18.SocialNetwork/issues"
+  },
+  "homepage": "https://github.com/charlottearichard/18.SocialNetwork#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2"
+  }
+}
